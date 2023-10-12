@@ -1,0 +1,45 @@
+body {
+    background-color:  rgba(105, 0, 117, 0.581) ;
+    color: white;
+    font-weight: 100;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-items: center;
+    text-shadow: 2px 2px #120101be;
+    text-align: center;
+    border-style: dashed;
+    border-color: rgb(125, 2, 113);
+   ;
+    
+    ;
+ }
+
+ h1{
+    font-family:monospace;
+    font-weight: 200;
+    text-emphasis-style:triangle  ;
+    text-emphasis-color: #620a4d;
+    color: antiquewhite ;
+    font-style: oblique;
+    text-align: left ;
+    text-shadow: 2px 2px #4b0148be;
+}
+#pic{ width: 90px;
+    height: auto;
+    border-radius: 50%;
+    object-fit:fill;
+    overflow: hidden;
+    
+}
+
+#pic:hover{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#list{
+    font-family: cursive;
+    color: #620a4d;
+    text-shadow: none;
+
+}
